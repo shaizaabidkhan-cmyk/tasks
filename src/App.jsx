@@ -4,7 +4,7 @@ import Footer from "./components/Footer";
 
 import Home from "./pages/Home";
 import ProductDetails from "./pages/ProductDetails";
-import cart from "./pages/cart";
+import cart from "./pages/cart.jsx";
 
 function App() {
   return (
